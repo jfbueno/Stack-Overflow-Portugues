@@ -1,6 +1,8 @@
-*.linq
 .vs
 .vscode
 
+*.linq
 bin/
 obj/
+
+*.class
