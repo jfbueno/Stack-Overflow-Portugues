@@ -1,0 +1,6 @@
+*.linq
+.vs
+.vscode
+
+bin/
+obj/
